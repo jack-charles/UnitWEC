@@ -1,0 +1,23 @@
+{
+    "Unit System Name": "SPE",
+    "Angle": "degree",
+    "Area": "ft2",
+    "Capacity": "bbl/ft",
+    "Concentration": "pptg",
+    "Gas Density": "gas sg",
+    "Liquid Density": "ppg",
+    "Solid Density": "ppg",
+    "Diameter": "in",
+    "Force": "lbf",
+    "Length": "ft",
+    "Linear Mass": "lbm/ft",
+    "Mass": "lbm",
+    "Mass Rate": "lbm/min",
+    "Permeability": "mD",
+    "Pressure": "psi",
+    "Pressure Gradient": "psi/ft",
+    "Temperature": "F",
+    "Velocity": "ft/s",
+    "Volume": "bbl",
+    "Volumetric Rate": "bbl/min"
+}
